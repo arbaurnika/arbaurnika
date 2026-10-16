@@ -49,7 +49,7 @@ A centralized school attendance information system built to digitize daily roll 
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yodi-dev&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arbaurnika&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
